@@ -1,0 +1,12 @@
+
+## Requirement
++ Install NodeJS ,Yarn
++ Run scripts:
+```
+yarn
+```
++ How to start the serverL
+```
+yarn start
+```
+Noted: You can look in the package.json for more scripts.
